@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.seconddinner.upm-lfs-bug": "https://github.com/mschweitzer-sd/upm-lfsbug-package.git?path=/upm",
+    "com.mikerochip.upm-lfs-bug": "https://github.com/mikerochip/upm-lfsbug-package.git?path=/upm",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ide.rider": "1.1.4",
     "com.unity.ide.vscode": "1.2.0",
@@ -41,9 +41,9 @@
     "com.unity.modules.xr": "1.0.0"
   },
   "lock": {
-    "com.seconddinner.upm-lfs-bug": {
+    "com.mikerochip.upm-lfs-bug": {
       "revision": "HEAD",
-      "hash": "dc3c610481921cc3eb7fa62c51aa234eab3dc900"
+      "hash": "1d69b71d288ea176398f0a46fc1e0c4fa82edc24"
     }
   }
 }
